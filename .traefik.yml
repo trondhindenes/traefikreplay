@@ -1,0 +1,12 @@
+displayName: Replay
+type: middleware
+iconPath: .assets/icon.png
+
+import: github.com/trondhindenes/traefikreplay
+
+summary: 'Request Replayer'
+
+testData:
+  Percentage: 50
+  replayUrl: http://localhost/replay
+  onlyIfJson: true

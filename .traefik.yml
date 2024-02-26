@@ -7,6 +7,6 @@ import: github.com/trondhindenes/traefikreplay
 summary: 'Request Replayer'
 
 testData:
-  Percentage: 50
+  Percentage: 0
   replayUrl: http://localhost/replay
   onlyIfJson: true
